@@ -1,0 +1,78 @@
+body{
+    background-color: #111;
+    margin:0;
+    padding:0;
+    font-family: 'Bowlby One SC', cursive;
+}
+#container{
+    margin-left:auto;
+    margin-right:auto;
+}
+.zdjecie{
+    text-align:center;
+    padding-top:80px;
+    padding-bottom:20px;
+}
+.socials{
+    height:40px;
+    width:100%;
+}
+.socialdivs{
+    height:30px;
+    width:640px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.ig {
+    float: left;
+    margin: 10px;
+    width: 140px;
+    height: 87px;
+    background-color: #111; /*6a1aa7*/
+    text-align:center;
+    color:#eee4af;
+}
+.ig:hover{
+    cursor:pointer;
+}
+.fb {
+    float: left;
+    margin: 10px;
+    width: 140px;
+    height: 87px;
+    background-color: #111;
+    text-align:center;
+    color:#eee4af;
+
+}
+.fb:hover {
+    cursor:pointer;
+}
+.sn {
+     float: left;
+     margin: 10px;
+     width: 140px;
+     height: 87px;
+     background-color: #111;
+    text-align:center;
+    color:#ccc2ad;
+
+}
+.tt {
+    float: left;
+    margin: 10px;
+    width: 140px;
+    height: 87px;
+    background-color: #111;
+    text-align:center;
+    color:#ccc2ad;
+
+}
+a{
+    color:#000;
+    text-decoration: none;
+}
+a:visited{
+    color:#000;
+    text-decoration: none;
+}
